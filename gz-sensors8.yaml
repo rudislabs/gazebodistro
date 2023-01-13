@@ -2,45 +2,45 @@
 repositories:
   gz-cmake:
     type: git
-    url: https://github.com/gazebosim/gz-cmake
+    url: git@github.com:rudislabs/gz-cmake
     version: gz-cmake3
   gz-common:
     type: git
-    url: https://github.com/gazebosim/gz-common
+    url: git@github.com:rudislabs/gz-common
     version: gz-common5
   gz-math:
     type: git
-    url: https://github.com/gazebosim/gz-math
+    url: git@github.com:rudislabs/gz-math
     version: gz-math7
   gz-msgs:
     type: git
-    url: https://github.com/gazebosim/gz-msgs
+    url: git@github.com:rudislabs/gz-msgs
     version: gz-msgs9
   gz-plugin:
     type: git
-    url: https://github.com/gazebosim/gz-plugin
+    url: git@github.com:rudislabs/gz-plugin
     version: gz-plugin2
   gz-rendering:
     type: git
-    url: https://github.com/gazebosim/gz-rendering
+    url: git@github.com:rudislabs/gz-rendering
     version: main
   gz-sensors:
     type: git
-    url: https://github.com/gazebosim/gz-sensors
+    url: git@github.com:rudislabs/gz-sensors
     version: main
   gz-transport:
     type: git
-    url: https://github.com/gazebosim/gz-transport
+    url: git@github.com:rudislabs/gz-transport
     version: gz-transport12
   gz-tools:
     type: git
-    url: https://github.com/gazebosim/gz-tools
+    url: git@github.com:rudislabs/gz-tools
     version: gz-tools2
   gz-utils:
     type: git
-    url: https://github.com/gazebosim/gz-utils
+    url: git@github.com:rudislabs/gz-utils
     version: gz-utils2
   sdformat:
     type: git
-    url: https://github.com/gazebosim/sdformat
+    url: git@github.com:rudislabs/sdformat
     version: sdf13

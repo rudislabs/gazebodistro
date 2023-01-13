@@ -2,5 +2,5 @@
 repositories:
   gz-cmake:
     type: git
-    url: https://github.com/gazebosim/gz-cmake
+    url: git@github.com:rudislabs/gz-cmake
     version: gz-cmake3

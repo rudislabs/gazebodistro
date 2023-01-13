@@ -2,17 +2,17 @@
 repositories:
   gz-cmake:
     type: git
-    url: https://github.com/gazebosim/gz-cmake
+    url: git@github.com:rudislabs/gz-cmake
     version: ign-cmake2
   gz-math:
     type: git
-    url: https://github.com/gazebosim/gz-math
+    url: git@github.com:rudislabs/gz-math
     version: ign-math6
   gz-msgs:
     type: git
-    url: https://github.com/gazebosim/gz-msgs
+    url: git@github.com:rudislabs/gz-msgs
     version: ign-msgs8
   gz-tools:
     type: git
-    url: https://github.com/gazebosim/gz-tools
+    url: git@github.com:rudislabs/gz-tools
     version: ign-tools1

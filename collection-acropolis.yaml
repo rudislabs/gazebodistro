@@ -2,61 +2,61 @@
 repositories:
   gz-cmake:
     type: git
-    url: https://github.com/gazebosim/gz-cmake
+    url: git@github.com:rudislabs/gz-cmake
     version: ign-cmake2
   gz-common:
     type: git
-    url: https://github.com/gazebosim/gz-common
+    url: git@github.com:rudislabs/gz-common
     version: ign-common3
   gz-fuel-tools:
     type: git
-    url: https://github.com/gazebosim/gz-fuel-tools
+    url: git@github.com:rudislabs/gz-fuel-tools
     version: ign-fuel-tools3
   gz-sim:
     type: git
-    url: https://github.com/gazebosim/gz-sim
+    url: git@github.com:rudislabs/gz-sim
     version: ign-gazebo1
   gz-gui:
     type: git
-    url: https://github.com/gazebosim/gz-gui
+    url: git@github.com:rudislabs/gz-gui
     version: ign-gui1
   gz-launch:
     type: git
-    url: https://github.com/gazebosim/gz-launch
+    url: git@github.com:rudislabs/gz-launch
     version: ign-launch0
   gz-math:
     type: git
-    url: https://github.com/gazebosim/gz-math
+    url: git@github.com:rudislabs/gz-math
     version: ign-math6
   gz-msgs:
     type: git
-    url: https://github.com/gazebosim/gz-msgs
+    url: git@github.com:rudislabs/gz-msgs
     version: ign-msgs3
   gz-physics:
     type: git
-    url: https://github.com/gazebosim/gz-physics
+    url: git@github.com:rudislabs/gz-physics
     version: ign-physics1
   gz-plugin:
     type: git
-    url: https://github.com/gazebosim/gz-plugin
+    url: git@github.com:rudislabs/gz-plugin
     version: ign-plugin1
   gz-rendering:
     type: git
-    url: https://github.com/gazebosim/gz-rendering
+    url: git@github.com:rudislabs/gz-rendering
     version: ign-rendering1
   gz-sensors:
     type: git
-    url: https://github.com/gazebosim/gz-sensors
+    url: git@github.com:rudislabs/gz-sensors
     version: ign-sensors1
   gz-tools:
     type: git
-    url: https://github.com/gazebosim/gz-tools
+    url: git@github.com:rudislabs/gz-tools
     version: ign-tools0
   gz-transport:
     type: git
-    url: https://github.com/gazebosim/gz-transport
+    url: git@github.com:rudislabs/gz-transport
     version: ign-transport6
   sdformat:
     type: git
-    url: https://github.com/gazebosim/sdformat
+    url: git@github.com:rudislabs/sdformat
     version: sdf8
