@@ -14,7 +14,7 @@ repositories:
     version: gz-fuel-tools8
   gz-sim:
     type: git
-    url: git@github.com:rudislabs/gz-sim
+    url: https://github.com/rudislabs/gz-sim
     version: gz-sim7
   gz-gui:
     type: git
@@ -30,7 +30,7 @@ repositories:
     version: gz-math7
   gz-msgs:
     type: git
-    url: git@github.com:rudislabs/gz-msgs
+    url: https://github.com/rudislabs/gz-msgs
     version: gz-msgs9
   gz-physics:
     type: git
@@ -46,7 +46,7 @@ repositories:
     version: gz-rendering7
   gz-sensors:
     type: git
-    url: git@github.com:rudislabs/gz-sensors
+    url: https://github.com/rudislabs/gz-sensors
     version: gz-sensors7
   gz-tools:
     type: git
@@ -62,5 +62,5 @@ repositories:
     version: gz-utils2
   sdformat:
     type: git
-    url: git@github.com:rudislabs/sdformat
+    url: https://github.com/rudislabs/sdformat
     version: sdf13
