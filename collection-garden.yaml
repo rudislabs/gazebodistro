@@ -15,11 +15,11 @@ repositories:
   gz-sim:
     type: git
     url: https://github.com/rudislabs/gz-sim
-    version: gz-sim7
+    version: cognipilot
   gz-gui:
     type: git
     url: https://github.com/gazebosim/gz-gui
-    version: gz-gui7
+    version: cognipilot
   gz-launch:
     type: git
     url: https://github.com/gazebosim/gz-launch
@@ -31,7 +31,7 @@ repositories:
   gz-msgs:
     type: git
     url: https://github.com/rudislabs/gz-msgs
-    version: gz-msgs9
+    version: cognipilot
   gz-physics:
     type: git
     url: https://github.com/gazebosim/gz-physics
@@ -47,7 +47,7 @@ repositories:
   gz-sensors:
     type: git
     url: https://github.com/rudislabs/gz-sensors
-    version: gz-sensors7
+    version: cognipilot
   gz-tools:
     type: git
     url: https://github.com/gazebosim/gz-tools
@@ -63,4 +63,4 @@ repositories:
   sdformat:
     type: git
     url: https://github.com/rudislabs/sdformat
-    version: sdf13
+    version: cognipilot
