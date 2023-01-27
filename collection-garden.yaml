@@ -64,3 +64,11 @@ repositories:
     type: git
     url: https://github.com/rudislabs/sdformat
     version: cognipilot
+  ros_gz:
+    type: git
+    url: https://github.com/rudislabs/ros_gz
+    version: cognipilot
+  synapse_msgs:
+    type: git
+    url: https://github.com/rudislabs/synapse_msgs
+    version: main
