@@ -70,5 +70,5 @@ repositories:
     version: cognipilot
   synapse_msgs:
     type: git
-    url: https://github.com/rudislabs/synapse_msgs
+    url: https://github.com/cognipilot/synapse_msgs
     version: main
